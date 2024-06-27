@@ -2,20 +2,20 @@
 
 
 #Project Title: World Women Empowerment: Demystifying Preconceptions About Women's Roles in Society
-Subtitle: A Global Analysis of Female Representation in Top Positions and Its Socio-Economic Impact (2004-2020)
+Subtitle: A Global Analysis of Female Representation in Top Positions and its Socio-Economic Impact (2004-2020)
 
 
 #Project Overview
-This EDA explores the representation of women in top positions worldwide and their education (specially in STEM), using a comprehensive dataset from The World Bank Group's Gender Statistics database. 
+This EDA explores the representation of women in top positions worldwide, using a vast dataset from The World Bank Group's Gender Statistics database. 
 The dataset is from 2004 to 2023 and includes 103 key indicators related to women's empowerment, education and socio-economic factors across various countries.
 
 
 #Audience
-Business leaders and entrepreneurs
+Business leaders
 General public
 Women in Tech
 
-This analysis is intended for Business leaders and entrepreneurs that are interested in understanding the business case for gender diversity and its impact on organizational performance, promoting and giving more opportunities for women to join important desicion making positions;
+This analysis is intended for Business leaders that are interested in understanding the business case for gender diversity and its impact on organizational performance, promoting and giving more opportunities for women to join important desicion making positions;
 and for the public in general, because it's also for the ones interested in global gender equality promotion and the socio-economic implications of women's representation in leadership, helping fighting preconcepts about the role of women in society
 Finally, it is intended to be particularly usefull or inspiring for women like us trying to thrive in a male-dominated tech world, and understand how valuable we are and how impactfull we can be in leadership roles.
 
@@ -72,7 +72,8 @@ Women Business and the Law Index Score.
 
 
 #Case description
-First analyse the perception of the role of the women per country, as we have a generous quantity of relevant data that can tell the story about women in each country. This will lead to a broader analyze of the representation of women in top positions globally and examine how this representation influences socio-economic factors, human capital indices, and overall country development. 
+First analyse the perception of the role of the women per country, as we have a generous quantity of relevant data that can tell the story about women in each country. 
+This will lead to a broader analyze of the representation of women in top positions globally and examine how this representation influences socio-economic factors, human capital indices, and overall country development. 
 The project also aims to address and fight common misconceptions about the role of women in society by providing data-driven insights.
 
 
@@ -83,9 +84,7 @@ In this EDA we are going to focus on the following questions:
 
 Potential research questions:
 1- Which countries have the highest and lowest representation of women in top positions?
-2 - How does this compare with the overall percentage of women in the workforce and in STEM?
-3 - Is there a correlation between GDP and the percentage of women in top positions?
-4 - Are countries with higher education levels for women (especially in STEM) showing better gender diversity in leadership?
+2 - Is there a correlation between GDP and the percentage of women in top positions?
 
 
 #File organization:
